@@ -23,7 +23,7 @@
     "lz-string": "^1.4.4",
     "next": "10.2.3",
     "next-transpile-modules": "7.1.2",
-    "postcss": "^8.3.0",
+    "postcss": "^8.4.31",
     "prettier": "^1.18.2",
     "react": "17.0.1",
     "react-dom": "17.0.1",
